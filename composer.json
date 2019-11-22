@@ -1,5 +1,5 @@
 {
-    "name": "ecomitize/price",
+    "name": "chesterok/ecomitize-price",
     "description": "",
     "require": {
         "magento/magento-composer-installer": "*"
@@ -8,7 +8,7 @@
 
     },
     "type": "magento2-module",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": [
 
     ],
